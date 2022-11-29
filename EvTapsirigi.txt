@@ -1,0 +1,40 @@
+Elvin bilalov 
+
+1. PROGLAMLASDIRMA NEDIR VE PROGRAM DILLERI?
+Programlasdirma emirler vererek ferqli emeliyyatlar icra etmeye deyilir. Ve bizim emirlerimiz kodlardir. 
+Informasiya texnologiyalari sahesinde, muxtelif cur proglamlasdirma dilleri var ve bunlarin bir coxu muxtelif sahelerde istifade olunur.
+Meselen buna C dilini numune vere bilerik. Bir cox proglamlama dilinin temelinde C vardir. Bunu oyrendikden sonra diger dillere kecmek daha asand olur. 
+Database, emeliyyat sistemi gelistirme de, oyun dizayni ve.s istifade olunur. Pythonu da numune vere bilerik. Bir cox sahede istifade olunan bir dildir ve
+daha tez oyrenile bilen bir dil oldugu ucun genelde daha cox secilir. Pythondan istifade eden bezi web applicatonlar: Youtube; Instagram; Google; Dropbox
+Islendiyi saheler: machine learning, data science, web applicationlar, kiber tehlukesizlik ve.s. C#; Javascript; swift; go; jquery; Pascal; Fortran; php; ve sair kimi bir cox dil vardir
+
+2. SOFTWARE NEDIR?
+Software yazilim/program teminati demekdir. Softwarelerin novleri:
+A. Komputerin duzgun islemesini saglayan emeliyyat sistemi bir softwaredir. Meselen Windows, Mac, linux ve.s
+B. Desktop Programlar (Application) bir softwaredir. Buna bezi tetbiqleri numune vere bilerik mes: word, excel ve.s. 
+C. Tebii ki, tetbiqler tek komputer ucun yox android ve ya ios ucun de yazila bilir. Instagram; Whatsapp; ve.s
+D. Proglamlama dilleri bir softwaredir. Qisaca kodlarla hazirlanib, islek veziyyete gelmis bir suni agil, neyi nece edeceyi oyredilmis bir robot kimidir.
+E. Embed softwareler, bunlar ise daha cox avadanliqlarin, qurgularin icinde olan yazilimlardir. Bunlar daha cox Aurduino ile yazilir.
+
+3. SOFTWARE NECE EMAL OLUNUR?
+Qaynaq kodlari ile yazilaraq bir complier (derleyici/toparlayici) sayesinde calistirila bilen bir fayla cevrilir.
+Complierin ozu bir yazilimdir/softwaredir. High level kodlari, insanin yazdigi kodlari masin diline cevirerek (low lewel) komputerde islemesini saglayir.
+
+4. PROGRAMLASDIRMA DILLERINI HANSI XUSUSIYYETINE GORE QRUPLASDIRARSAN?
+Programlasdirma dillerini bu xususiyyetine gore gruplasdiriram --> high-level ve low-level olmasina gore ve Imperative, declarative olmasina gore.
+
+   I. High-level low-level ne demekdir?:
+
+A. High-level program dilleri odur ki, insan diline daha yaxindir ve insan onu tez goture bilir ve kod yazmasi daha rahat olur onun ucun. Eslinde programlasdirmanin koku
+0 ve 1 lere cixdigi ucun biz onu yaza bilmerik ama high-leveller sayesinde onu bir nov tercume olunmus formasini oyrenirik ve aradaki complierler onu masin diline cevirir.
+
+B. Low-level program dilleri ise masin diline yaxin olan dillerdir yeni ki 0 ve 1 lere daha yaxindir. Assembler numune olaraq verile biler. Bu diller insan terefinden rahat oxuna bilmir
+Eksine bu diller komputerlerin oz dogma dili kimi sayilir, riyazi ve.s meseleler de istifade oluna bilir.
+
+   II. Imperative ve declarative diller nedir?
+
+A. Imperative proglama dillerine Fortran; java; Pascal; ALGOL; C; C#; C++; Assembleri numune vermek olar. Imperative programlama diline nece edeceyini deyirsiniz declarative'e ise ne edeceyini. 
+Meselen kvadrat cekmek isteyirik, qelemi bas,saga apar, asagi apar, sola apar, yuxari apar, qelemi burax falan demek lazimdir. Ama declarative'e ise kvadrat cek demek lazimdir. Biznes ve is yonumlu
+programlarda imperative metoddan istifade etmek daha yaxsidi. 3 novu var procedural, object oriented, structured.
+
+B. Declarative programlama dillerine  Html; CSS; SQL; XML numune vermek olar 3 novu var: Logic, functional, database processing approach
